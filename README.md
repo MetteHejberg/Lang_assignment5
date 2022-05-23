@@ -18,7 +18,7 @@ I tried to use the same data as Sagae (2021, p. 8), however there were a few tha
 
 __References:__
 
-MacWhinney, B. (2000). *The CHILDES Project: Tools for analyzing talk. Third Edition*. Mahwah, NJ: Lawrence Erlbaum Associates.
+MacWhinney, B. (2022). *The CHILDES Project: Tools for analyzing talk. Third Edition*. Mahwah, NJ: Lawrence Erlbaum Associates.
 
 Sagae K. (2021). Tracking Child Language Development With Neural Network Language Models. *Frontiers in psychology*, 12, 674402. https://doi.org/10.3389/fpsyg.2021.674402
 

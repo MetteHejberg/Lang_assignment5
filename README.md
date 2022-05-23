@@ -3,7 +3,7 @@ Link to repository: https://github.com/MetteHejberg/Lang_assignment5
 
 This assignment is inspired by Sagae's (2021) paper, where they build a recurrent neural network that tracks children's age and syntactic development. The goal of their paper, was to provide a more data-driven and reproducible alternative to the models currently in use to predict and evaluate children's age in terms of their language skills. This assignment seeks to build a classifier that can predict children's age on the basis of their language skills.
 
-I got the data from the CHILDES corpus. CHILDES is a child language corpus of naturally produced speech. Most data on the site are audio recordings which also have been transcribed. I downloaded transcriptions of children between the ages 1 and 5 from the following providers on the site - __see how to cite them!__:
+I got the data from the CHILDES corpus (MacWhinney 2022). CHILDES is a child language corpus of naturally produced speech. Most data on the site are audio recordings which also have been transcribed. I downloaded transcriptions of children between the ages 1 and 5 from the following providers on the site - __see how to cite them!__:
 - Braunwald: Laura. https://childes.talkbank.org/access/Eng-NA/Braunwald.html
 - Brown: Adam, Eve, and Sarah. https://childes.talkbank.org/access/Eng-NA/Brown.html
 - Clark: Shem. https://childes.talkbank.org/access/Eng-NA/Clark.html

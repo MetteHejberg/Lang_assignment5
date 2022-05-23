@@ -23,7 +23,7 @@ Sagae K. (2021). Tracking Child Language Development With Neural Network Languag
 Tomasello, M. (2003). Constructing a language: *A usage-based theory of language acquisition*. Harvard University Press. 
 
 ## 2. Method
-A large part of this assignment was to wrangle the data to get it into a format that I could work with. 
+A large part of this assignment was to wrangle the data to get them into a format that I could work with. 
 
 ## 3. Usage ```nlp_age_classifier.py```
 To run the code you should:

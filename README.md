@@ -8,6 +8,6 @@ Sagae K. (2021). Tracking Child Language Development With Neural Network Languag
 
 ## 2. Method
 
-## 3. Usage 
+## 3. Usage ```nlp_age_classifier.py```
 
 ## 4. Discussion of Results 

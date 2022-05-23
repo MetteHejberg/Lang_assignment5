@@ -21,6 +21,8 @@ __References:__
 MacWhinney, B. (2000). *The CHILDES Project: Tools for analyzing talk. Third Edition*. Mahwah, NJ: Lawrence Erlbaum Associates.
 Sagae K. (2021). Tracking Child Language Development With Neural Network Language Models. *Frontiers in psychology*, 12, 674402. https://doi.org/10.3389/fpsyg.2021.674402
 
+Sagae K. (2021). Tracking Child Language Development With Neural Network Language Models. *Frontiers in psychology*, 12, 674402. https://doi.org/10.3389/fpsyg.2021.674402
+
 Tomasello, M. (2003). Constructing a language: *A usage-based theory of language acquisition*. Harvard University Press. 
 
 ## 2. Method

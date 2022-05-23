@@ -24,5 +24,10 @@ Tomasello, M. (2003). Constructing a language: *A usage-based theory of language
 ## 2. Method
 
 ## 3. Usage ```nlp_age_classifier.py```
+To run the code you should:
+- Pull this repository with this folder structure
+- Retrieve the data and place it in a folder called ```data``` inside the folder ```in```
+- Install the libraries mentioned in ```requirements.txt``` from the command line
+- Set your current working directory to the level above ```src```
 
 ## 4. Discussion of Results 

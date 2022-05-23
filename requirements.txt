@@ -1,1 +1,21 @@
-
+To run the code, import the following libraries:
+- os
+- re
+- pandas
+- numpy
+- matplotlib.pyplot
+- from sklearn.model_selection import train_test_split
+- from sklearn.preprocessing import LabelBinarizer, LabelEncoder
+- from sklearn.metrics import classification_report
+- from sklearn import metrics
+- from tensorflow import keras
+- from tensorflow.keras import layers
+- from tensorflow.keras.preprocessing.text import Tokenizer
+- from tensorflow.keras.preprocessing import sequence
+- from tensorflow.keras.models import Sequential
+- from tensorflow.keras.layers import (Dense, 
+                                    Flatten,
+                                    Conv1D, 
+                                    MaxPooling1D, 
+                                    Embedding)
+- from tensorflow.keras.optimizers import SGD, Adam

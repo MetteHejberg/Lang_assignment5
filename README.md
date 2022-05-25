@@ -34,5 +34,7 @@ To run the code you should:
 - Make sure the ```utils``` folder is placed inside ```src```
 - Install the libraries mentioned in ```requirements.txt``` from the command line
 - Set your current working directory to the level above ```src```
+- Write in the terminal: ```python src/age_classifier.py -e "number of epochs of the model" -b "batch size of the model```
+  - The outputs in ```out``` were created with the following code: ```python src/age_classifier.py -e 10 -128```
 
 ## 4. Discussion of Results 

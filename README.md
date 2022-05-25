@@ -25,7 +25,7 @@ Sagae K. (2021). Tracking Child Language Development With Neural Network Languag
 Tomasello, M. (2003). Constructing a language: *A usage-based theory of language acquisition*. Harvard University Press. 
 
 ## 2. Method
-A large part of this assignment was to wrangle the data to get them into a format that I could work with. Firstly, the script loads the data as ```pandas``` dataframes. This allows me to work with the files very efficiently eventhough they are not csv files. Then, for every dataset, I get what the child says and the metadata on the child (age and sex), which I collectively tranform into a new dataframe. I then use regex to clean the text and age columns. I rename the columns and drop data from 1 and 5-year-olds because there is less data, and . Lastly, I create a train and test split with ```scikit-learn```. I use the tokenizer from ```tensorflow``` to tokenize the text.
+A large part of this assignment was to wrangle the data to get them into a format that I could work with. Firstly, the script loads the data as ```pandas``` dataframes. This allows me to work with the files very efficiently eventhough they are not csv files. Then, for every dataset, I get what the child says and the metadata on the child (age and sex), which I collectively tranform into a new dataframe. I then use regex to clean the text and age columns. I rename the columns and drop data from 1 and 5-year-olds because there is less data, and . Lastly, I create a train and test split with ```scikit-learn```. I use the tokenizer from ```tensorflow``` to tokenize the text and the ```sequence``` function to further process the text.
 
 ## 3. Usage ```nlp_age_classifier.py```
 To run the code you should:

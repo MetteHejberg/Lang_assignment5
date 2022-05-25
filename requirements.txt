@@ -4,6 +4,7 @@ To run the code, import the following libraries:
 - pandas
 - numpy
 - matplotlib.pyplot
+- utils
 - from sklearn.model_selection import train_test_split
 - from sklearn.preprocessing import LabelBinarizer, LabelEncoder
 - from sklearn.metrics import classification_report

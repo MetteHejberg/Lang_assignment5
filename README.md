@@ -31,6 +31,7 @@ A large part of this assignment was to wrangle the data to get them into a forma
 To run the code you should:
 - Pull this repository with this folder structure
 - Retrieve the data and place it in a folder called ```data``` inside the folder ```in```
+- Make sure the ```utils``` folder is placed inside ```src```
 - Install the libraries mentioned in ```requirements.txt``` from the command line
 - Set your current working directory to the level above ```src```
 

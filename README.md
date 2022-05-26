@@ -38,4 +38,4 @@ To run the code you should:
   - The outputs in ```out``` were created with the following code: ```python src/age_classifier.py -e 10 -128```
 
 ## 4. Discussion of Results 
-
+The outputs of the models are vastly different. The plot of the unbalanced model shows that the model overfits on the training data beyond 5 epochs, and however achieves around 60% accuracy overall. Interestingly, the model performs extremely badly on the 4-year-olds. This is perhaps not surprising, since there are vastly fewer tokens in this class than the others. In general, there are huge difference in the amount of tokens. I already tried to combat this before I created the model by excluding the data from 1 and 5-year-olds on the grounds at there wasn't enough data. On the basis of the outpus of the unbalanced model, I decided to create a balanced dataset and run the same model again. 

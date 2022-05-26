@@ -119,6 +119,7 @@ def load_clean_data():
 
 # balance data for second run of model
 def balance(cleaned_data):
+    # take 23019 samples (the amount of tokens in the 4-year-old category)
     balanced_data = clf.balance(cleaned_data, 23019)
     return balanced_data
 

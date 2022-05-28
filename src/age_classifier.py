@@ -57,7 +57,7 @@ def plot_history(H, eps):
 def load_clean_data():
     # get the paths
     paths = []
-    directory_path = os.path.join("self_assigned", "data")
+    directory_path = os.path.join("in", "data")
     # get the filenames
     filenames = os.listdir(directory_path)
     for file in filenames:

@@ -8,7 +8,6 @@ To run the code, import the following libraries:
 - from sklearn.model_selection import train_test_split
 - from sklearn.preprocessing import LabelBinarizer, LabelEncoder
 - from sklearn.metrics import classification_report
-- from sklearn import metrics
 - from tensorflow import keras
 - from tensorflow.keras import layers
 - from tensorflow.keras.preprocessing.text import Tokenizer
@@ -19,4 +18,4 @@ To run the code, import the following libraries:
                                     Conv1D, 
                                     MaxPooling1D, 
                                     Embedding)
-- from tensorflow.keras.optimizers import SGD, Adam
+- from tensorflow.keras.optimizers import Adam
